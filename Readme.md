@@ -1,3 +1,3 @@
 # Brett Wolfangel
 ## Chalkinbot
-<h3> Here is my cool repo</h3>
+This was an in class assignment for JavaScript practice. We developed our own bot for Discord.
